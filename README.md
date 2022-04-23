@@ -9,3 +9,4 @@ Here it is along side `PartyBuffs`
 
 ![img](https://i.imgur.com/sIGhQhL.png)
 
+It hasn't been fully tested yet. If you run into issues please reach out to me here or in Discord Jaza#6599
